@@ -1,7 +1,6 @@
 # ESP32-C3 SuperMini I2S Loopback Project
 
-This repository contains an Arduino-based project for the ESP32-C3 SuperMini board.  
-It demonstrates an I2S audio loopback: capturing audio from a microphone (MS3625) and playing it back through a speaker amplifier (MAX98357A).
+This project showcases an I2S audio loopback, where sound is captured from the MS3625 microphone and immediately played back through the MAX98357A speaker amplifier powered by the ESP32-C3 SuperMini board.
 
 ## Environment
 
