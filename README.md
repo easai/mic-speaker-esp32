@@ -2,15 +2,6 @@
 
 This project showcases an I2S audio loopback, where sound is captured from the MS3625 microphone and immediately played back through the MAX98357A speaker amplifier powered by the ESP32-C3 SuperMini board.
 
-## Environment
-
-PlatformIO configuration:
-
-[env:esp32-c3-supermini]  
-platform = espressif32  
-board = esp32-c3-supermini  
-framework = arduino  
-
 ## Features
 
 - Configures ESP32-C3 I2S peripheral in master mode
